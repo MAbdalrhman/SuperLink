@@ -301,7 +301,7 @@ footer{
 
 footer h4{
     text-shadow: var(--mainSHADOW);
-    font-family: var(--secondaryFONT);
+    font-family: 'Markazi Text', serif;
     color: var(--mainCOLOR);
     padding: 20px 20px;
     font-size: 18px;
