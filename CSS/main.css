@@ -301,7 +301,7 @@ footer{
 
 footer h4{
     text-shadow: var(--mainSHADOW);
-    font-family: var(--mainFONT);
+    font-family: var(--secondaryFONT);
     color: var(--mainCOLOR);
     padding: 20px 20px;
     font-size: 18px;
