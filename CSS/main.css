@@ -94,7 +94,7 @@ header nav ul li a:hover{
 
 .subtitle p{
     text-shadow: var(--mainSHADOW);
-    font-family: mainFONT;
+    font-family: 'Markazi Text', serif;
     color: var(--mainCOLOR);
     line-height: 25px;
     text-align: center;
@@ -117,7 +117,7 @@ header nav ul li a:hover{
     border: none;
 }
 input[type="text"]{
-    font-family: var(--mainFONT);
+    font-family: 'Markazi Text', serif;
     transition: 0.3s ease;
     text-align: center;
     font-size: 18px;
@@ -193,7 +193,7 @@ svg{
 }
 
 .Services .boxs-serv p {
-    font-family: var(--mainFONT);
+    font-family: 'Markazi Text', serif;
     color: var(--mainCOLOR);
     margin-top: 33px;
     font-size: 18px;
@@ -235,7 +235,7 @@ svg{
 }
 
 .box-pack p{
-    font-family: var(--mainFONT);
+    font-family: 'Markazi Text', serif;
     font-size: 20px;
     width: 250px;
     margin: auto;
