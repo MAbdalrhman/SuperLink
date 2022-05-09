@@ -85,7 +85,7 @@ header nav ul li a:hover{
 
 .subtitle span{
     text-shadow: var(--mainSHADOW);
-    font-family: secondaryFONT;
+    font-family: ;
     color: var(--mainCOLOR);
     user-select: none;
     font-weight: 600;
