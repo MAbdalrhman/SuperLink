@@ -94,7 +94,7 @@ header nav ul li a:hover{
 
 .subtitle p{
     text-shadow: var(--mainSHADOW);
-    font-family: mainFONT;
+    font-family: secondaryFONT;
     color: var(--mainCOLOR);
     line-height: 25px;
     text-align: center;
